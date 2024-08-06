@@ -4,9 +4,9 @@ The objective of this project is to store items in a list that can be easily ref
 
 An item contains:
 
-an item name field
+An item name field
 
-a quantity field
+A quantity field
 
 ## User stories
 
