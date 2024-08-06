@@ -1,7 +1,5 @@
 # Shopping List
 
-Hosting: 
-
 The objective of this project is to store items in a list that can be easily referenced while shopping.
 
 An item contains:
